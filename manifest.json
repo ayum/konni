@@ -1,0 +1,16 @@
+{
+  "short_name": "Конни",
+  "name": "Конни на русском",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
